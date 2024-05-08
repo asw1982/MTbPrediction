@@ -54,10 +54,13 @@ These files can be run to get all the performance results.
 ![ensemble_model](https://github.com/asw1982/MTbPrediction/assets/99703772/db73c0d3-f743-4282-8ab7-ae650903847e)
  - **"combine_pretrained_model_1.ipynb"**
  - **"perf_combined_model.ipynb"**
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/4d7b078e-12ce-4c9c-983e-3be1ba602286)
+![image](https://github.com/asw1982/MTbPrediction/assets/99703772/582ab871-6b36-41bb-bdaa-df4e83fa48e7)
+![image](https://github.com/asw1982/MTbPrediction/assets/99703772/ad3891e0-12a7-4832-8682-f591b2653301)
+![image](https://github.com/asw1982/MTbPrediction/assets/99703772/5d37a735-b4ee-4e28-8ced-6447639d4713)
 
 # 4. web_GATNN_apps 
-
+**"gatnn_app.py"**
+![web_app](https://github.com/asw1982/MTbPrediction/assets/99703772/f480e2fc-c599-4924-8bf6-3db140a29aa5)
 
 # email : 
 agung.unitel@gmail.com 
