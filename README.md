@@ -44,8 +44,18 @@ These files can be run to get all the performance results.
 ![image](https://github.com/asw1982/MTbPrediction/assets/99703772/f0d8aa0c-dee2-41d2-ba72-137535260829)
 
 # 3.4 single_input_graph_experiment
+  - **"model_only_graph.ipynb"**
+  - **"single_GATNN.ipynb"**
+![image](https://github.com/asw1982/MTbPrediction/assets/99703772/0d2615c5-4844-4db2-ba55-de268cc54934)
+![image](https://github.com/asw1982/MTbPrediction/assets/99703772/1cb433fd-da4a-439a-a84a-8aa437a4a462)
+![image](https://github.com/asw1982/MTbPrediction/assets/99703772/545945da-d26b-4173-ab9b-b39ab8396f1b)
 
 # 3.5 ensemble_experiment
+![ensemble_model](https://github.com/asw1982/MTbPrediction/assets/99703772/db73c0d3-f743-4282-8ab7-ae650903847e)
+ - **"combine_pretrained_model_1.ipynb"**
+ - **"perf_combined_model.ipynb"**
+![image](https://github.com/asw1982/MTbPrediction/assets/99703772/4d7b078e-12ce-4c9c-983e-3be1ba602286)
+
 # 4. web_GATNN_apps 
 
 
