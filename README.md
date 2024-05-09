@@ -14,7 +14,7 @@ The environment was set by Anaconda and it can be seen in the **"environment.txt
  - torch==2.0.1
  - torch_geometric==2.3.1
  - torchvision==0.15.2
- - The dataset is also provided in **"all_dataset_mtbpen5371.csv"**
+The dataset is also provided in **"all_dataset_mtbpen5371.csv"**
 
 # 2. Data_preprocessing
 In this folder, we made data preprocessing to repair, select, reduce, and find the most important data feature.
