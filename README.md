@@ -31,8 +31,9 @@ There are two experiments in this folder. The first is used for getting the best
 after getting the best model then we run and record the performance of the best model in code **"single_FCNN_fingerp.ipynb"**
 
 ![image](https://github.com/asw1982/MTbPrediction/assets/99703772/eeaef180-089c-4e4f-b705-3f9d6b34b047)
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/a9774b4c-b79f-4c1d-960e-dfcb014110e0)  
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/4db29057-cac4-4887-a3ef-6c3aa33e1991)
+
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/a9774b4c-b79f-4c1d-960e-dfcb014110e0" width="400" />
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/4db29057-cac4-4887-a3ef-6c3aa33e1991" width="400" />
 
 # 3.3 single_input_desc_experiment
 Similar to the previous experiment, we applied a fully connected neural network but using descriptor input. 
@@ -40,27 +41,38 @@ These files can be run to get all the performance results.
   - **"training_desc_FCNN.ipynb"**
   - **"single_FCNN_desc.ipynb"**
 ![image](https://github.com/asw1982/MTbPrediction/assets/99703772/cf1a4b17-7d2c-412d-aad2-b8813b0cc189)
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/d89632d8-489c-4418-8b32-1403f8d04d98)
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/f0d8aa0c-dee2-41d2-ba72-137535260829)
+
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/d89632d8-489c-4418-8b32-1403f8d04d98" width="400" />
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/f0d8aa0c-dee2-41d2-ba72-137535260829" width="400" />
 
 # 3.4 single_input_graph_experiment
+This experiment showed the best performance among all experiments in accuracy. It is the same as the previous experiment one needs to run the first code before the the second code 
+to get the best hyperparameter of the model. 
   - **"model_only_graph.ipynb"**
   - **"single_GATNN.ipynb"**
 ![image](https://github.com/asw1982/MTbPrediction/assets/99703772/0d2615c5-4844-4db2-ba55-de268cc54934)
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/1cb433fd-da4a-439a-a84a-8aa437a4a462)
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/545945da-d26b-4173-ab9b-b39ab8396f1b)
+
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/1cb433fd-da4a-439a-a84a-8aa437a4a462" width="400" />
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/545945da-d26b-4173-ab9b-b39ab8396f1b" width="400" />
 
 # 3.5 ensemble_experiment
+The architecture of an ensemble stacking model can be seen in the picture below. We saved all the models in experiments 3.2, 3.3, and 3.4. 
+In this experiment, we reloaded the saved model and used them as pre-trained sub-models that would be integrated to be the ensemble model. 
+
 ![ensemble_model](https://github.com/asw1982/MTbPrediction/assets/99703772/db73c0d3-f743-4282-8ab7-ae650903847e)
  - **"combine_pretrained_model_1.ipynb"**
  - **"perf_combined_model.ipynb"**
 ![image](https://github.com/asw1982/MTbPrediction/assets/99703772/582ab871-6b36-41bb-bdaa-df4e83fa48e7)
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/ad3891e0-12a7-4832-8682-f591b2653301)
-![image](https://github.com/asw1982/MTbPrediction/assets/99703772/5d37a735-b4ee-4e28-8ced-6447639d4713)
+
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/ad3891e0-12a7-4832-8682-f591b2653301" width="400" />
+<img src="https://github.com/asw1982/MTbPrediction/assets/99703772/5d37a735-b4ee-4e28-8ced-6447639d4713" width="400" />
 
 # 4. web_GATNN_apps 
+The code below is used for running the web server application. The picture displays what the web application looks like. 
 **"gatnn_app.py"**
+
 ![web_app](https://github.com/asw1982/MTbPrediction/assets/99703772/f480e2fc-c599-4924-8bf6-3db140a29aa5)
+
 
 # email : 
 agung.unitel@gmail.com 
