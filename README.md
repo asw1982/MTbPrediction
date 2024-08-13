@@ -80,7 +80,7 @@ In this experiment, we reloaded the saved model and used them as pre-trained sub
 The code below is used for running the web server application. 
 - **"gatnn_app.py"**
   
-The picture displays what the web application looks like. 
+The picture displays how the web application looks like. 
 The web app can be accessed in this link: https://nscl-mtb-predictor.onrender.com
 ![web_app](https://github.com/asw1982/MTbPrediction/assets/99703772/f480e2fc-c599-4924-8bf6-3db140a29aa5)
 
